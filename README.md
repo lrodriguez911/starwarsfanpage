@@ -1,5 +1,5 @@
-# Proyecto-cac-22518
-Proyecto de codo a codo a presentar en octubre 2022
+# Proyecto para hackathon Code Innovation Series
+Code Innovation Series
 
 Tema seleccionado de Star wars
 
